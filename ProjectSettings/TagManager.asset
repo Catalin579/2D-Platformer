@@ -41,3 +41,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Ground
+    uniqueID: 1406044577
+    locked: 0
+  - name: Environment
+    uniqueID: 2906047171
+    locked: 0
